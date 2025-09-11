@@ -1,5 +1,5 @@
 ## **Hi there 👋, I'm Abdul Mannan**  
-<a href="https://www.linkedin.com/in/abdulmannan4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+<a href="https://www.linkedin.com/in/abdulmannan4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## **About Me**  
 I am passionate about cybersecurity, focusing on SOC operations, log analysis, and threat detection. I enjoy working with SIEM platforms like Microsoft Sentinel, ELK, and Splunk, analyzing security incidents, and developing detection rules. I am also exploring threat hunting, IOC enrichment, and endpoint security to enhance detection and response.
