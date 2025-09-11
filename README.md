@@ -54,7 +54,7 @@ I am passionate about cybersecurity, focusing on SOC operations, log analysis, a
 
 ## **Projects**
 - **[SOC & Honeynet in Azure (Live Traffic)](Currently in Works)**  
-  → Built a **SOC environment** in **Microsoft Azure** for **real-world threat detection** and compliance.
+  → Building a **SOC environment** in **Microsoft Azure** for **real-world threat detection** and compliance.
 
 ---
 
