@@ -57,7 +57,7 @@ I am passionate about cybersecurity, focusing on SOC operations, log analysis, a
 ---
 
 ## **Projects**
-- **[SOC & Honeynet in Azure (Live Traffic)](https://github.com/FeralMayhem/Baiting-Hackers-in-the-Cloud-Building-an-Azure-Honeynet)**  
+- **[Baiting Hackers in the Cloud: Building an Azure Honeynet](https://github.com/FeralMayhem/Baiting-Hackers-in-the-Cloud-Building-an-Azure-Honeynet)**  
   → Building a **SOC environment** in **Microsoft Azure** for **real-world threat detection** and compliance.
 
 ---
