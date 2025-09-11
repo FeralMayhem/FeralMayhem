@@ -21,7 +21,7 @@ I am passionate about cybersecurity, focusing on SOC operations, log analysis, a
     <img src="https://img.shields.io/badge/-VirusTotal-FF4500?&style=for-the-badge&logo=virustotal&logoColor=white" />
     <img src="https://img.shields.io/badge/-KQL-000000?&style=for-the-badge&logo=codeforces&logoColor=white" />
     <img src=https://img.shields.io/badge/Abuse.ch-blue?style=for-the-badge&logo=abuse.ch&logoColor=%2300465B />
-    <img src=https://img.shields.io/badge/Shodan-black?style=for-the-badge&logo=abuse.ch />
+    <img src=https://img.shields.io/badge/Shodan-black?style=for-the-badge />
 
 
 </div>
