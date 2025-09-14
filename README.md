@@ -51,7 +51,7 @@ I am passionate about cybersecurity, focusing on SOC operations, log analysis, a
 <div>
 <img src="https://img.shields.io/badge/-AZ--900-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-SC--900-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-ArcX_:_Threat_Intelligence_101-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ---
